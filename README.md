@@ -9,15 +9,15 @@ Used technologies:
 
 
 Install project:
-  1 - 'git clone https://github.com/Vizlij/TestApp.git'
-  2 - 'cd ./TestApp'
-  3 - 'nmp install' or 'yarn install'
+* 'git clone https://github.com/Vizlij/TestApp.git'
+* 'cd ./TestApp'
+* 'nmp install' or 'yarn install'
 
 Run android:
-  * - 'react-native run-android'
+* 'react-native run-android'
   
 Run ios: 
-  1 - 'cd ./ios'
-  2 - 'pod install'
-  3 - 'cd ...'
-  4 - 'react-native run-ios'
+* 'cd ./ios'
+* 'pod install'
+* 'cd ...'
+* 'react-native run-ios'
