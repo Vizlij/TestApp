@@ -13,7 +13,7 @@ export default ({ navigation }) => {
       const ratio = win.width / width
       segImageHeight(height * ratio)
     })
-  })
+  }, [])
 
   return (
     <View style={styles.photoContainer}>
